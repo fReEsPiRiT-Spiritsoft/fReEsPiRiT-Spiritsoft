@@ -5,7 +5,7 @@
 </p>
 
 ## 🔭 Vision & Fokus
-Ich entwickle Software mit einem **futuristischen Mindset** und einem **ethischen Fundament**. Für mich bedeutet moderne Softwareentwicklung nicht nur technische Exzellenz, sondern auch die Verantwortung für Performance, Barrierefreiheit und nachhaltige Architektur.
+Ich entwickle Software mit einem **futuristischen Mindset** und einem **ethischen Fundament**. Für mich bedeutet moderne Softwareentwicklung nicht nur technische Vielfalt, sondern auch die Verantwortung für Performance, Barrierefreiheit und nachhaltige Architektur.
 
 - 🛠 **Präzision:** Clean Code als Standard, nicht als Option.
 - 🌿 **Ethik:** Privacy-by-Design und Fokus auf digitale Souveränität.
