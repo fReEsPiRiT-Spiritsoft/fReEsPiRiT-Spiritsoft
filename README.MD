@@ -1,7 +1,7 @@
 # 🌌 Patrick Schmidt | Software Engineer 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=fReEsPiRiT-Spiritsoft:%20Engineering%20with%20Purpose&fontSize=35&fontAlignY=40&animation=fadeIn" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8892b0&center=true&vCenter=true&width=600&lines=Spiritsoft:+Engineering+with+Purpose;Python+%7C+Angular+%7C+Django;Ethisches+Fundament+%26+Zukunftsvision" alt="Typing SVG" />
 </p>
 
 ## 🔭 Vision & Fokus
@@ -17,16 +17,16 @@ Ich entwickle Software mit einem **futuristischen Mindset** und einem **ethische
 
 | Bereich | Technologien |
 | :--- | :--- |
-| **Backend & Logic** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) |
+| **Backend & Logic** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) |
 | **Frontend** | ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
-| **Architektur** | Microservices, Cloud Native, Ethische KI-Integration |
+| **Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
 
 ---
 
 ## 📈 Open Source & Contribution Stats
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=fReEsPiRiT-Spiritsoft&show_icons=true&theme=tokyonight&title_color=64ffda&icon_color=64ffda&text_color=8892b0&hide_border=true" />
-<img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fReEsPiRiT-Spiritsoft&layout=compact&theme=tokyonight&title_color=64ffda&text_color=8892b0&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=fReEsPiRiT-Spiritsoft&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fReEsPiRiT-Spiritsoft&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
