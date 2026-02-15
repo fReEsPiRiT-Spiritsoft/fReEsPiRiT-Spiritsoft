@@ -35,12 +35,7 @@ Ich entwickle Software mit einem **futuristischen Mindset** und einem **ethische
 
 ---
 
-## 🤝 Zusammenarbeit & Werte
-Professionalität bedeutet für mich **Integrität**. Ich suche Projekte, die technologischen Fortschritt mit gesellschaftlichem Mehrwert verbinden.
 
-* **Verlässlichkeit:** Transparente Kommunikation und Termintreue.
-* **Qualität:** Fokus auf Wartbarkeit und technische Schuldenfreiheit.
-* **Mentor-Mindset:** Wissen teilen, um das gesamte Team wachsen zu lassen.
 
 ---
 
