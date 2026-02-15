@@ -23,10 +23,14 @@ Ich entwickle Software mit einem **futuristischen Mindset** und einem **ethische
 
 ---
 
-## 📈 Open Source & Contribution Stats
+## 📊 Activity & Engineering Metrics
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=fReEsPiRiT-Spiritsoft&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fReEsPiRiT-Spiritsoft&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fReEsPiRiT-Spiritsoft&theme=tokyonight&area=true&hide_border=true" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Expertise-Fullstack%20Development-8892b0?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Philosophy-Ethical%20Coding-8892b0?style=for-the-badge&labelColor=0D1117" />
 </p>
 
 ---
