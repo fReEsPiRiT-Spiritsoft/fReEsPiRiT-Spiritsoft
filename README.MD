@@ -1,7 +1,7 @@
 # 🌌 Patrick Schmidt | Software Engineer 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8892b0&center=true&vCenter=true&width=600&lines=Spiritsoft:+Engineering+with+Purpose;Python+%7C+Angular+%7C+Django;Ethisches+Fundament+%26+Zukunftsvision" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8892b0&center=true&vCenter=true&width=600&lines=Patrick-Schmidt:+Engineering+with+Purpose;Python+%7C+Angular+%7C+Django;Ethisches+Fundament+%26+Zukunftsvision" alt="Typing SVG" />
 </p>
 
 ## 🔭 Vision & Fokus
