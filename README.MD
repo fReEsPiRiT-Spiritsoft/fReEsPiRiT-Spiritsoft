@@ -1,7 +1,7 @@
 # 🌌 Patrick Schmidt | Software Engineer 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0D1117&height=200&section=header&text=Spiritsoft:%20Engineering%20with%20Purpose&fontSize=35&fontAlignY=40&animation=fadeIn&fontColor=8892b0" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Spiritsoft:%20Engineering%20with%20Purpose&fontSize=35&fontAlignY=40&animation=fadeIn" />
 </p>
 
 ## 🔭 Vision & Fokus
